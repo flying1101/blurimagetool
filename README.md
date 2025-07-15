@@ -2,7 +2,7 @@
 
 # blurimagetool
 
-[blurimagetool.com](http://blurimagetool.com/)
+[访问 BlurImageTool](https://blurimagetool.com)
 
 
 # 示例
