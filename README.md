@@ -1,6 +1,6 @@
 
 
-## Getting Started
+# blurimagetool
 
 [blurimagetool.com](http://blurimagetool.com/)
 
